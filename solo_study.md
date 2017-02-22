@@ -18,11 +18,11 @@ Your objectives for the day is to achieve:
 
 ### Plan
 
-- [ ] Signup for [Udacity Javascript Basics][udacity]
-- [ ] Complete [Getting up and running & Problem Set 0][udacity]
-- [ ] Complete [Data Types and Problem Set 1][udacity]
-- [ ] Complete [Flow Control and Problem Set 2][udacity]
-- [ ] Complete [Quiz: Relationships][udacity]
+- [x ] Signup for [Udacity Javascript Basics][udacity]
+- [x ] Complete [Getting up and running & Problem Set 0][udacity]
+- [x ] Complete [Data Types and Problem Set 1][udacity]
+- [x ] Complete [Flow Control and Problem Set 2][udacity]
+- [x ] Complete [Quiz: Relationships][udacity]
 - [ ] Complete [Quiz: Astronaut Arrays][udacity]
 - [ ] Complete [Quiz: Pagespeed Insights][udacity]
 
@@ -30,7 +30,7 @@ Your objectives for the day is to achieve:
 ### Stretch
 
 - [ ] Skim [You don't know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/ch1.md#practice) and complete the final challenge
-- [ ] Complete [Final Project][udacity]
+- [x ] Complete [Final Project][udacity]
 - [ ] Watch and complete the [Front End Masters Javascript Introduction](https://frontendmasters.com/courses/javascript-basics/) (2 hours)
 - [ ] Watch the bootcamp videos in the [Core Vanilla Javascript](https://shereef.wistia.com/projects/fwy60ilf20) section
 - [ ] Read Chapters 1,2,3 of [Eloquent Javascript][el]
@@ -50,8 +50,8 @@ Today you objectives are to put in practice the concepts you learned yesterday. 
 
 ### Plan
 
-- [ ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
-  - [ ] Link to your solution here (jsbin, gist, or a js file in this repo)
+- [x ] Complete the last 5 tasks of [Objects Basics Tutorial](https://learn.javascript.info/object)
+  - [x ] object-tasks/tasks.js
 - [ ] Complete the last 5 tasks of [Arrays Tutorial](https://learn.javascript.info/array)
  - [ ] Link to your solution here
 - [ ] Complete the last 5 tasks of [Array Methods](https://learn.javascript.info/array)
